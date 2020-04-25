@@ -1,0 +1,11 @@
+{
+  "body": "{\"content\":\"MONKEY MAN MONKEY MAN\",\"attachment\":\"new.jpg\"}",
+  "pathParameters": {
+    "id": "af268270-86c4-11ea-9c60-5fbac2120251"
+  },
+  "requestContext": {
+    "identity": {
+      "cognitoIdentityId": "USER-SUB-1234"
+    }
+  }
+}
